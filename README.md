@@ -16,7 +16,7 @@
 
 ## 1.项目结构
 
-chatRoom             
+ChatRoom             
 ├─ emoji &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;//存放表情包的文件夹  
 │  ├─ concerned.png  
 │  ├─ facepalm.png   
